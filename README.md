@@ -64,6 +64,18 @@ Besides programming, I enjoy eating food and travelling.
 
 <br/>
 
+### Work Experience :computer_mouse: :desktop_computer: :keyboard:
+
+| Position | Organization | Timeline |
+| :-: | :-: | :-: |
+| Software Developer Intern | [@CppSecrets](https://cppsecrets.com/) | March 2020 - May 2020 |
+| Subject Matter Expert | [@Chegg](https://www.chegg.com/) | Feb 2020 - April 2020 |
+| Android Application Development | [@IIT Bhu](https://iitbhu.ac.in/) | Nov 2019 - Jan 2020 |
+| Software Virtual Intern | [@JPMorgan Chase&Co](https://in.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/gtAhtcvke9AFCzqME) | May 2020 |
+| Data Visualization | [@Skill Lync](https://skill-lync.com/) | May 2020 |
+| Python Mentor | [@Girlscript](https://www.girlscript.tech/home) | Jun 2020 |
+| Technical support| [@Alpine Technology](https://alpinetech.in/) | Jun 2020 |
+
 You have finally discovered my Github profile!!
 <br/>
 Please feel free to clone projects and raise issues if you think something could be better.
