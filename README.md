@@ -45,7 +45,7 @@ Besides programming, I enjoy eating food and travelling.
 - 🙍  Open Source Contributor
 - ⚡️ Read my blogs at: [Vikas](https://www.quora.com/profile/Vikas-Kumar-2718)
 - 📫 How to reach me: vkn84527@gmail.com
-- #📝[Resume](https://drive.google.com/file/)
+- #📝[Resume](https://drive.google.com/file/d/1dVT6e8I59EbzQlPoCdyyaVUMM-7asRyB/view)
 
 **Languages and Tools:**  
 
