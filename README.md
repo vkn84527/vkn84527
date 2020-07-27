@@ -47,6 +47,7 @@ Besides programming, I enjoy eating food and travelling.
 - #📝[Resume](https://drive.google.com/file/d/1dVT6e8I59EbzQlPoCdyyaVUMM-7asRyB/view)
 - 💼 [My Portfolio](https://vkn84527.github.io/vk/)
 - ⚡️ [GitHub Portfolio](https://sourcerer.io/vkn84527)
+- [GitZilla](https://gitzilla.netlify.app/users/vkn84527)
 
 **Languages and Tools:**  
 
