@@ -75,7 +75,7 @@ Besides programming, I enjoy eating food and travelling.
 | Android Application Development | [@IIT Bhu](https://iitbhu.ac.in/) | Nov 2019 - Jan 2020 |
 | Software Virtual Intern | [@JPMorgan Chase&Co](https://in.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/gtAhtcvke9AFCzqME) | May 2020 |
 | Data Visualization | [@Skill Lync](https://skill-lync.com/) | May 2020 |
-| Python Mentor | [@Girlscript](https://www.girlscript.tech/home) | Jun 2020 |
+| Python Mentor | [@Girlscript](https://www.girlscript.tech/home) & [Tech_With_P](https://www.linkedin.com/company/tech-with-p/)| Jun 2020 |
 | Technical support| [@Alpine Technology](https://alpinetech.in/) | Jun 2020 |
 
 You have finally discovered my Github profile!!
