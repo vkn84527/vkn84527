@@ -28,7 +28,7 @@
 </a>
 <br />
 <br/>
-I am a 3rd year undergraduate🙍 Student at National Institute of Technology, Manipur(India), who is passionate about technologies💻 and obsessed with the idea of improving herself and wants to grow and excel in it🚀.
+I am a Final year(7th Sem) undergraduate🙍 Student at National Institute of Technology, Manipur(India), who is passionate about technologies💻 and obsessed with the idea of improving herself and wants to grow and excel in it🚀.
 <br/>
 Python Develpor || ML Enthusiast || BackEnd Developer(in progress) || Problem solving(Python)
 <br/>
