@@ -1,4 +1,4 @@
-# [Vikas Kumar](https://vkn84527.github.io/vk/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
+# [Vikas Kumar](https://vkn84527.github.io/Portfolio/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <br/>
@@ -11,7 +11,7 @@
 <a href="https://t.me/v_k_Rawat">
   <img align="left" alt="Vikas's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/laymans_brother/">
+<a href="https://www.instagram.com/v_k_rawat7/">
   <img align="left" alt="Vikas's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/people/Vikas-Kr-Rawat/100008830386440">
