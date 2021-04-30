@@ -44,7 +44,7 @@ Besides programming, I enjoy eating food and travelling.
 - 👨🏽‍💼 Active participant in Competitive Programming competitions
 - 🙍  Open Source Contributor
 - 📫 How to reach me: vkn84527@gmail.com
-- #📝[Resume](https://drive.google.com/file/d/1ZZFN-3pjVdyUe8g8C2S_SQu0SikmCm_R/view)
+- #📝[Resume](https://drive.google.com/file/d/1pNnMMl8URx-ATkfT8TeAUe-LIZed4umS/view)
 - 💼 [My Portfolio](https://vkn84527.github.io/Portfolio/)
 - ⚡️ [Sourcerer Porfile](https://sourcerer.io/vkn84527)
 - [GitZilla](https://gitzilla.netlify.app/users/vkn84527)
