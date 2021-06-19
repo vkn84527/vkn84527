@@ -30,7 +30,7 @@
 <br/>
 I am a Final year undergraduate🙍 Student at National Institute of Technology Manipur(India), who is passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it🚀.
 <br/>
-Python Develpor || ML Enthusiast || BackEnd Developer(in progress) || Problem solving(Python)
+Python Develpor || BackEnd Developer(in progress) || Problem solving(Python)
 <br/>
 Besides programming, I enjoy eating food and travelling.
 
@@ -39,12 +39,12 @@ Besides programming, I enjoy eating food and travelling.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently learning Django (Python)  
+- 👨🏽‍💻 I’m currently learning Node.js(JavaScript)  
 - 💬 Ask me anything, I am always happy to help
 - 👨🏽‍💼 Active participant in Competitive Programming competitions
 - 🙍  Open Source Contributor
 - 📫 How to reach me: vkn84527@gmail.com
-- #📝[Resume](https://drive.google.com/file/d/1pNnMMl8URx-ATkfT8TeAUe-LIZed4umS/view)
+- #📝[Resume](https://drive.google.com/file/d/1K33Y3gTYrd7B5pngvqy39JxaTDNhhdnD/view?usp=sharing)
 - 💼 [My Portfolio](https://vkn84527.github.io/Portfolio/)
 - ⚡️ [Sourcerer Porfile](https://sourcerer.io/vkn84527)
 - [GitZilla](https://gitzilla.netlify.app/users/vkn84527)
@@ -70,14 +70,13 @@ Besides programming, I enjoy eating food and travelling.
 
 | Position | Organization | Timeline |
 | :-: | :-: | :-: |
+| Software Engineering Intern | [@Click_Labs](https://click-labs.com/) | April 2021 -- |
 | Software Developer Intern | [@CppSecrets](https://cppsecrets.com/) | March 2020 - May 2020 |
 | Subject Matter Expert | [@Chegg](https://www.chegg.com/) | Feb 2020 - April 2020 |
 | Android Application Development | [@IIT Bhu](https://iitbhu.ac.in/) | Nov 2019 - Jan 2020 |
 | Software Virtual Intern | [@JPMorgan Chase&Co](https://in.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/gtAhtcvke9AFCzqME) | May 2020 |
-| Data Visualization | [@Skill Lync](https://skill-lync.com/) | May 2020 |
 | Python Mentor | [@Girlscript](https://www.girlscript.tech/home) | Jun 2020 |
 | Python Mentor |  [Tech_With_P](https://www.linkedin.com/company/tech-with-p/)| July 2020 |
-| Technical support| [@Alpine Technology](https://alpinetech.in/) | Jun 2020 |
 
 You have finally discovered my Github profile!!
 <br/>
