@@ -30,7 +30,7 @@
 <br/>
 I am a Final year undergraduate🙍 Student at National Institute of Technology Manipur(India), who is passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it🚀.
 <br/>
-Python Develpor || BackEnd Developer(in progress) || Problem solving(Python)
+ BackEnd Developer || Problem solving(Python)
 <br/>
 Besides programming, I enjoy eating food and travelling.
 
@@ -71,7 +71,7 @@ Besides programming, I enjoy eating food and travelling.
 
 | Position | Organization | Timeline |
 | :-: | :-: | :-: |
-| Software Engineering Intern | [@Click_Labs](https://click-labs.com/) | April 2021 -- |
+| TECH TRAINEE | [@Click_Labs](https://click-labs.com/) | April 2021 -- |
 | Software Developer Intern | [@CppSecrets](https://cppsecrets.com/) | March 2020 - May 2020 |
 | Subject Matter Expert | [@Chegg](https://www.chegg.com/) | Feb 2020 - April 2020 |
 | Android Application Development | [@IIT Bhu](https://iitbhu.ac.in/) | Nov 2019 - Jan 2020 |
