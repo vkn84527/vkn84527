@@ -28,7 +28,7 @@
 </a>
 <br />
 <br/>
-I am a Final year undergraduate🙍 Student at National Institute of Technology Manipur(India), who is passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it🚀.
+I have completed my graduation from Student at **National Institute of Technology Manipur(India)** , who is passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it🚀.
 <br/>
  BackEnd Developer || Problem solving(Python)
 <br/>
