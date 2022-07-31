@@ -40,12 +40,12 @@ Besides programming, I enjoy eating food and travelling.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently learning Node.js(JavaScript)  
+- 👨🏽‍💻 I’m currently working on Python  
 - 💬 Ask me anything, I am always happy to help
 - 👨🏽‍💼 Active participant in Competitive Programming competitions
 - 🙍  Open Source Contributor
 - 📫 How to reach me: vkn84527@gmail.com
-- #📝[Resume](https://drive.google.com/file/d/1LGbVrN4bUNsftE3WVS9yJKJiDfxmtxxp/view?usp=sharing)
+- #📝[Resume](https://drive.google.com/file/d/11gIwqhVA2YuWIC06mA4zvsqM817HSWHJ/view)
 - 💼 [My Portfolio](https://vkn84527.github.io/Portfolio/)
 - ⚡️ [Sourcerer Porfile](https://sourcerer.io/vkn84527)
 - [GitZilla](https://gitzilla.netlify.app/users/vkn84527)
@@ -72,7 +72,8 @@ Besides programming, I enjoy eating food and travelling.
 
 | Position | Organization | Timeline |
 | :-: | :-: | :-: |
-| TECH TRAINEE | [@Click_Labs](https://click-labs.com/) | April 2021 -- |
+| MTS-1 | [@Nutanix](https://www.nutanix.com/) | Dec 2021 -- |
+| BackEnd Developer | [@Click_Labs](https://click-labs.com/) | April 2021 -- Nov 2021|
 | Software Developer Intern | [@CppSecrets](https://cppsecrets.com/) | March 2020 - May 2020 |
 | Subject Matter Expert | [@Chegg](https://www.chegg.com/) | Feb 2020 - April 2020 |
 | Android Application Development | [@IIT Bhu](https://iitbhu.ac.in/) | Nov 2019 - Jan 2020 |
